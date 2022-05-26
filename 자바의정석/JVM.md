@@ -1,6 +1,5 @@
 # JVM
 <hr>
-<br>
 
 ## Java Virtual Machine
 <hr>
