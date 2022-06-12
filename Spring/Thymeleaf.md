@@ -25,7 +25,9 @@
   * 순수 HTML로만 이루어진 페이지의 경우, 선언하지 않아도 무방
 
 ### th:text
-  * JSP EL 표현식인 ${}와 마찬가지로 타임리프도 ${} 표현식 사용, 컨트롤러에서 전달받은 데이터 접근
+  * JSP EL 표현식인 ![image](https://user-images.githubusercontent.com/57441201/173233530-77d04580-cbf9-414f-bc19-4afcba86717a.png)
+와 마찬가지로 타임리프도 ![image](https://user-images.githubusercontent.com/57441201/173233535-1c6db502-56b7-419b-9430-dc502c0ff19e.png)
+ 표현식 사용, 컨트롤러에서 전달받은 데이터 접근
   * 일반적인 텍스트 형식으로 화면에 출력
 
 ### th:fragment
