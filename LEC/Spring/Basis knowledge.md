@@ -76,12 +76,44 @@
   * 유연하게 빌드 스크립트 작성 가능
   * 성능 뛰어남
 
+ 
+* HTTP
+  * HTTP(HyperText Transfer Protocol)
+  * Protocol : 표준, 약속
+  * ex) HTTP Method
+    * GET -> 데이터를 달라 요청, 쿼리 
+    * POST -> 데이터를 저장하라 요청, 바디
+    * PUT -> 데이터를 수정하라, 바디
+    * DELETE -> 데이터를 삭제하라 쿼리 
 
 
+* API(Application Programming Interface)
+  * 정해진 약속을 하여, 특정 기능을 수행하는 것 
+
+
+* URL(Uniform Resource Locator)
+  * 주소창
+  * http://spring.com:3000/portion?color=red&count=2
+  * http -> 사용하고 있는 프로토콜 종류
+  * // -> 구분기호
+  * spring.com:3000 -> 도메인 이름, ip로 대체 가능
+  * portion -> path(자원의 경로)
+  * color=red&count=2 -> 쿼리(추가 정보)
+
+
+* HTTP 응답 종류
+  * 200 : 정상적으로 응답
+  * 300 : 다른곳으로 요청해야하는 상태
+  * 404 : 요청하는 곳을 못찾음
+  * 500 : 내부 오류
+
+
+* HTTP 응답 종류
+  * 200 : 정상적으로 응답
 
 * [출처] https://www.youtube.com/watch?v=f0cAmTYo4tQ
 
 
 
 
-> 23.07.12 정리
+> 23.07.17 수정 
