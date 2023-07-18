@@ -110,10 +110,21 @@
 
 * HTTP 응답 종류
   * 200 : 정상적으로 응답
+ 
+
+* JSON(JavaScript Object Notation)
+  * 객체 표기법
+  * 중괄호({. }) 무조건 양 끝에 존재
+  * 중괄호 안에 "key" : value로 표기
+  * ex)
+   * {"name" : "최태현", "age" : 99}
+  * 속성은 각각 쉼표로 구분
+
+
+
+
 
 * [출처] https://www.youtube.com/watch?v=f0cAmTYo4tQ
 
 
-
-
-> 23.07.17 수정 
+> 23.07.18 수정 
